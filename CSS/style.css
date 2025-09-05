@@ -6,7 +6,7 @@
     --colorBlack: #000;
     --colorGrey: #585b5e;
     --colorLightGrey: #a9afb4;
-    --blueShade: #F00;
+    --blueShade: #b3021f;
 }
 
 * {
@@ -309,7 +309,7 @@ main .hero-wrapper .hero-section .hero-left .live-indicator::after {
     transform: translate(0, -50%);
     height: 0.8vw;
     width: 0.8vw;
-    background-color: #f00;
+    background-color: #b3021f;
     border-radius: 50%;
 }
 
@@ -427,7 +427,7 @@ main .hero-wrapper .hero-section .hero-left .hero-left-buttons button i {
 
 main .hero-wrapper .hero-section .hero-left .hero-left-buttons button:active {
     transform: scale(0.98);
-    background-color: #F00;
+    background-color: #b3021f;
 }
 
 main .hero-wrapper .hero-section .hero-right {

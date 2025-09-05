@@ -6,7 +6,7 @@
     --colorBlack: #000;
     --colorGrey: #585b5e;
     --colorLightGrey: #a9afb4;
-    --blueShade: #0C68E9;
+    --blueShade: #F00;
 }
 
 * {
@@ -427,7 +427,7 @@ main .hero-wrapper .hero-section .hero-left .hero-left-buttons button i {
 
 main .hero-wrapper .hero-section .hero-left .hero-left-buttons button:active {
     transform: scale(0.98);
-    background-color: #0b54b9;
+    background-color: #F00;
 }
 
 main .hero-wrapper .hero-section .hero-right {
